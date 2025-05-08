@@ -24,7 +24,7 @@ It combines Python and Bash scripting to automate vulnerability detection, makin
 
 * Python 3.x
 * `curl`, `grep`, and basic UNIX utilities
-* (Optional) `requests` and `beautifulsoup4` for enhanced scanning
+* `requests` and `beautifulsoup4` for enhanced scanning
 
 ###  Getting Started
 
