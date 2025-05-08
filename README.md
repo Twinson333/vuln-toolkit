@@ -29,9 +29,9 @@ It combines Python and Bash scripting to automate vulnerability detection, makin
 ###  Getting Started
 
 ```bash
-git clone https://github.com/yourusername/simple-xss-csrf-crlf-detector.git
-cd simple-xss-csrf-crlf-detector
-bash run.sh
+git clone https://github.com/Twinson333/vuln-toolkit.git
+cd vuln-toolkit
+bash TamarinTools.sh
 ```
 
 ---
